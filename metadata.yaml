@@ -1,0 +1,29 @@
+_repo: A-Flight-in-Spring--13-In-the-car-Lucania-from-New-York-to-the-Pacific-coast-and-back-during-__33620
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33620-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knowles, J. Harris (John Harris)
+    alias: Knowles, John Harris
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '36501'
+    url: http://www.gutenberg.org/2009/agents/36501
+description: ''
+gutenberg_issued: '2010-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+- !lcsh 'Railroad travel -- United States'
+title: "A Flight in Spring\r\nIn the car Lucania from New York to the Pacific coast\
+  \ and back, during April and May, 1898"
+url: http://www.gutenberg.org/ebooks/33620
